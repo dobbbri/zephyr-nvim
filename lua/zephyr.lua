@@ -106,7 +106,7 @@ local syntax = {
 	StatusLineNC = { fg = z.grey, bg = z.base2 },
 	Question = { fg = z.yellow },
 	NormalFloat = { fg = z.base8, bg = z.bg_highlight },
-	TabL:ine = { fg = z.base6, bg = z.base2 },
+	TabLine = { fg = z.base6, bg = z.base2 },
 	TabLineFill = { fg = z.base6, bg = z.base2 },
 	TabLineSel = { fg = z.fg, bg = z.blue },
 	SpellBad = { fg = z.red, bg = z.none, undercurl = true },
