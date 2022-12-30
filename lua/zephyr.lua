@@ -99,7 +99,7 @@ local syntax = {
 	Pmenu = { fg = z.fg, bg = z.bg_popup },
 	PmenuSel = { fg = z.base0, bg = z.blue },
 	PmenuSelBold = { fg = z.base0, bg = z.blue },
-	PmenuSbar = { bg = z.base4 },
+	PmenuSbar = { bg = z.fg },
 	PmenuThumb = { fg = z.violet, bg = z.light_green },
 	WildMenu = { fg = z.bg1, bg = z.green },
 	StatusLine = { fg = z.base8, bg = z.base2 },
